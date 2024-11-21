@@ -84,8 +84,8 @@
     <!-- LMOFreeform -->
     <string name="floating_window">Floating</string>
 
-    <!-- Memory info -->
-    <string name="meminfo_text">%1$s available | %2$s</string>
-    <string name="recents_meminfo_title">Memory info</string>
+    <!-- RAM info -->
+    <string name="ram_info_text">%1$s available | %2$s</string>
+    <string name="recents_ram_info_title">RAM info</string>
 
 </resources>

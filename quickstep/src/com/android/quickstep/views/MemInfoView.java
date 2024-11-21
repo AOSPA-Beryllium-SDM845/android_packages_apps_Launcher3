@@ -90,7 +90,7 @@ public class MemInfoView extends TextView {
         mHandler = new Handler(Looper.getMainLooper());
         mWorker = new MemInfoWorker();
 
-        mMemInfoText = context.getResources().getString(R.string.meminfo_text);
+        mMemInfoText = context.getResources().getString(R.string.ram_info_text);
         setListener(context);
     }
 
